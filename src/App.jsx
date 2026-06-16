@@ -1,5 +1,5 @@
 import './App.css'
-import Navbar from "./navBar.jsx";
+import Navbar from "./Navbar.jsx";
 import FixedTop from "./FixedTop.jsx";
 import Home from "./Home.jsx";
 
